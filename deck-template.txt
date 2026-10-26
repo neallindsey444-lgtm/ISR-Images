@@ -5,7 +5,7 @@
 https://github.com/neallindsey444-lgtm/ISR-Images/blob/main/ISR%20Images/01.png
 
 # Slide 2 - Image 2
-https://example.com/slides/02.png
+https://github.com/neallindsey444-lgtm/ISR-Images/blob/main/ISR%20Images/02.png
 
 # Slide 3 - Image 3
 https://example.com/slides/03.png
