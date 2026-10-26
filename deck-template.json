@@ -1,0 +1,14 @@
+{
+  "title": "Operation Name",
+  "slides": [
+    {"image": "https://example.com/slides/01.png", "title": "Title", "notes": "Opening remarks."},
+    {"image": "https://example.com/slides/02.png", "title": "Situation", "notes": "Enemy and friendly forces."},
+    {"image": "https://example.com/slides/03.png", "title": "Mission", "notes": "Who, what, where, when, why."},
+    {"image": "https://example.com/slides/04.png", "title": "Execution", "notes": "Scheme of manoeuvre, phases."},
+    {"image": "https://example.com/slides/05.png", "title": "Map / AO", "notes": "Key terrain, objectives, routes."},
+    {"image": "https://example.com/slides/06.png", "title": "Service Support", "notes": "Resupply, medical, CASEVAC."},
+    {"image": "https://example.com/slides/07.png", "title": "Command & Signal", "notes": "Callsigns, frequencies, chain of command."},
+    {"image": "https://example.com/slides/08.png", "title": "Questions", "notes": "Q&A."},
+    "https://example.com/slides/09.png"
+  ]
+}
