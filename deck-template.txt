@@ -3,6 +3,3 @@
 
 # Slide 1 - Image 1
 https://github.com/neallindsey444-lgtm/ISR-Images/blob/main/ISR%20Images/01.png
-
-# Slide 2 - Image 2
-https://github.com/neallindsey444-lgtm/ISR-Images/blob/main/ISR%20Images/02.png
